@@ -1,6 +1,6 @@
 ## Welcome to the MOU script  v2.1.5
 <p align="center">
-<img src="https://i.imgur.com/9NbTvkO.png"/>
+<img src="https://i.imgur.com/QY1080b.png"/>
 <img src="https://i.imgur.com/7yxjAyt.png"/>
 <img src="https://i.imgur.com/aY2nVcs.png"/>
 <img src="https://i.imgur.com/HKgs9iC.png"/>

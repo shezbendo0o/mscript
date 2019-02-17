@@ -137,7 +137,7 @@ chmod +x install.sh
 
 ```
 open terminal
-type  "l"
+type  "m"
 press enter
 ```
 **(Not even "MOU"!! Just "m"! The less you type , the better!)**

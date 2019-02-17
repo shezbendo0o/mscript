@@ -102,7 +102,7 @@ clear
 echo -e "DONE"
 sleep 1
 clear
-echo -e "Congratulations...you are now using MOU Script"
+echo -e "Congratulations...you are now using MOU Script..open new window then type m "
 sleep  4
 gnome-terminal -e m
 exit
